@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "190669966933",
+    "project_id": "torofy-demo01",
+    "storage_bucket": "torofy-demo01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190669966933:android:dca8d711a4245e974e8edc",
+        "android_client_info": {
+          "package_name": "com.techtsf.torofy.torofy_demo01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190669966933-letgqlsmu2o640b8knb98sscvpvvt1tg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techtsf.torofy.torofy_demo01",
+            "certificate_hash": "d571ad815c4d928990f432bfbaa2873a3b3a23cb"
+          }
+        },
+        {
+          "client_id": "190669966933-r0m01deg1si6rnivrekk9jorsmcrrmkk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe_bMG-qjgWsZl0fhbzNJb43m-4tXPapc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190669966933-r0m01deg1si6rnivrekk9jorsmcrrmkk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
