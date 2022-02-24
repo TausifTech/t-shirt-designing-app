@@ -1,16 +1,9 @@
-# torofy_demo01
+# torofy
 
 Flutter project about customizable t-shirts
 
-## Getting Started
+## T - Shirt designing application
 
-This project is a starting point for a Flutter application.
+Minimal design with optimum performance. It runs in release mode and it has no issues what so ever.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Code ready to compile
