@@ -1,4 +1,4 @@
-# torofy
+# TOROFY
 
 Flutter project about customizable t-shirts
 
