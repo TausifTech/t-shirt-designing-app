@@ -13,6 +13,7 @@ Flutter project about customizable t-shirts
 Minimal design with optimum performance. It runs in release mode and it has no issues what so ever.
 
 <p float="center">
+  <img src="https://user-images.githubusercontent.com/71214537/157206563-356db8f2-aea1-4a3e-8c71-15f8277deeef.jpg" width="300" height="600" />
   <img src="https://user-images.githubusercontent.com/71214537/157213524-64f72b14-5955-4f79-bae2-3c28128533b2.jpg" width="300" height="600" />
 </p>
 
