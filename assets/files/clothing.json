@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Argentina",
-    "mplayer": "png",
+    "mplayer": "https://raw.githubusercontent.com/TausifTech/tausiftech.github.io/main/assets/files/background01/jersey.jpg",
     "cardpic": "png",
     "background": "https://raw.githubusercontent.com/TausifTech/tausiftech.github.io/main/assets/files/background01/a01z.jpg",
     "details": "The Argentina national team is one of the eight to have won the FIFA World Cup, having done so in 1978 and 1986, and also being runner-up in 1930, 1990 and 2014. Argentina has also won the top continental tournament, the Copa América, 15 times, and the FIFA Confederations Cup in 1992.",
@@ -14,7 +14,7 @@
       "image5": "png"
     },
     "hashes": {
-      "hmplayer": "png",
+      "hmplayer": "L~M*BOxp~pN1axt6WAWCxba#WCWW",
       "hcardpic": "png",
       "hbackground": "LWK8C~BP}F,[,Da#JTa_#UnONZW=",
       "himage1": "png",
@@ -27,7 +27,7 @@
   {
     "id": 2,
     "name": "Brazil",
-    "mplayer": "png",
+    "mplayer": "https://raw.githubusercontent.com/TausifTech/tausiftech.github.io/main/assets/files/background01/jersey.jpg",
     "cardpic": "png",
     "background": "https://raw.githubusercontent.com/TausifTech/tausiftech.github.io/main/assets/files/background01/b3zz.jpg",
     "details": "Football was introduced to Brazil by Scottish immigrant Thomas Donohoe. The first football match played in Brazil was in April 1894, played on a pitch marked out by Donohoe next to his workplace in Bangu.",
@@ -39,7 +39,7 @@
       "image5": "png"
     },
     "hashes": {
-      "hmplayer": "png",
+      "hmplayer": "L~M*BOxp~pN1axt6WAWCxba#WCWW",
       "hcardpic": "png",
       "hbackground": "LAG[y3?wyGn{ZrtjISMg0NMy$dXR",
       "himage1": "png",
@@ -52,7 +52,7 @@
   {
     "id": 4,
     "name": "France",
-    "mplayer": "png",
+    "mplayer": "https://raw.githubusercontent.com/TausifTech/tausiftech.github.io/main/assets/files/background01/jersey.jpg",
     "cardpic": "png",
     "background": "https://raw.githubusercontent.com/TausifTech/tausiftech.github.io/main/assets/files/background01/F401.jpg",
     "details": "France has won two World Cups, one in 1998 and another in 2018. France has also won two UEFA European Football Championships, first in 1984, led by Ballon d'Or winner Michel Platini, and then in 2000, led by FIFA World Player of the Year Zinedine Zidane.",
@@ -64,7 +64,7 @@
       "image5": "png"
     },
     "hashes": {
-      "hmplayer": "png",
+      "hmplayer": "L~M*BOxp~pN1axt6WAWCxba#WCWW",
       "hcardpic": "png",
       "hbackground": "LPE2#9xb9ls,?dR:E8oftjWEM^js",
       "himage1": "png",
